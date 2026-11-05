@@ -1,0 +1,6 @@
+{
+  "name": "Olive Garden – Aerocity, New Delhi",
+  "description": "Premium Italian dining experience at Worldmark 4, Aerocity, New Delhi. Handcrafted Italian favourites, signature pasta, never-ending breadsticks, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
